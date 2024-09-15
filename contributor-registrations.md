@@ -25,7 +25,7 @@ Follow these simple steps to register as a contributor for GSSoC '24:
 
 ## Important Dates
 
-- **Registration Deadline**: The last date to apply is **September 2024**.  
+- **Registration Deadline**: The last date to apply is ** 25 September 2024**.  
    Don’t wait till the last moment—apply early and get ready to embark on an exciting journey!
 
 ## Why Should You Join?
